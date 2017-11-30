@@ -1,0 +1,7 @@
+C:\Users\Monica\source\repos\Homework1_BinarySearch\Homework1_BinarySearch\bin\Debug\Homework1_BinarySearch.exe.config
+C:\Users\Monica\source\repos\Homework1_BinarySearch\Homework1_BinarySearch\bin\Debug\Homework1_BinarySearch.exe
+C:\Users\Monica\source\repos\Homework1_BinarySearch\Homework1_BinarySearch\bin\Debug\Homework1_BinarySearch.pdb
+C:\Users\Monica\source\repos\Homework1_BinarySearch\Homework1_BinarySearch\obj\Debug\Homework1_BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Monica\source\repos\Homework1_BinarySearch\Homework1_BinarySearch\obj\Debug\Homework1_BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Monica\source\repos\Homework1_BinarySearch\Homework1_BinarySearch\obj\Debug\Homework1_BinarySearch.exe
+C:\Users\Monica\source\repos\Homework1_BinarySearch\Homework1_BinarySearch\obj\Debug\Homework1_BinarySearch.pdb
