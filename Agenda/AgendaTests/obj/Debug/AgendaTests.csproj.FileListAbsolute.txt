@@ -1,0 +1,16 @@
+C:\Users\Monica\source\repos\Agenda\AgendaTests\obj\Debug\AgendaTests.csprojResolveAssemblyReference.cache
+C:\Users\Monica\source\repos\Agenda\AgendaTests\obj\Debug\AgendaTests.csproj.CoreCompileInputs.cache
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\AgendaTests.dll
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\AgendaTests.pdb
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\Agenda.exe
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\Agenda.pdb
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\Agenda.exe.config
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Monica\source\repos\Agenda\AgendaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Monica\source\repos\Agenda\AgendaTests\obj\Debug\AgendaTests.dll
+C:\Users\Monica\source\repos\Agenda\AgendaTests\obj\Debug\AgendaTests.pdb
