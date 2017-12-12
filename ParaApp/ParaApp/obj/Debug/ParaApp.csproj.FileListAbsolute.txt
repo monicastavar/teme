@@ -1,0 +1,7 @@
+C:\Users\Monica\source\repos\ParaApp\ParaApp\bin\Debug\ParaApp.exe.config
+C:\Users\Monica\source\repos\ParaApp\ParaApp\bin\Debug\ParaApp.exe
+C:\Users\Monica\source\repos\ParaApp\ParaApp\bin\Debug\ParaApp.pdb
+C:\Users\Monica\source\repos\ParaApp\ParaApp\obj\Debug\ParaApp.csprojResolveAssemblyReference.cache
+C:\Users\Monica\source\repos\ParaApp\ParaApp\obj\Debug\ParaApp.csproj.CoreCompileInputs.cache
+C:\Users\Monica\source\repos\ParaApp\ParaApp\obj\Debug\ParaApp.exe
+C:\Users\Monica\source\repos\ParaApp\ParaApp\obj\Debug\ParaApp.pdb
